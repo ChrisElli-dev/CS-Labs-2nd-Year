@@ -1,0 +1,21 @@
+Iphone
+IPHONE
+Ipad
+IPAD
+Watch
+WATCH
+Computer
+COMPUTER
+Tablet
+TABLET
+Watch Processed
+Ipad Processed
+Printer
+Computer Processed
+Iphone Processed
+PRINTER
+Printer Processed
+Flash
+FLASH
+Flash Processed
+Tablet Processed

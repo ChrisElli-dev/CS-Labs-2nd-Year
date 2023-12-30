@@ -1,0 +1,12 @@
+Exception: Недопустимый возраст
+CustomAgeException: Недопустимый возраст
+	at Main.main(Main.java:44)
+Exception: Недопустимый возраст
+CustomAgeException: Недопустимый возраст
+	at Main.main(Main.java:44)
+Exception: Недопустимый возраст
+CustomAgeException: Недопустимый возраст
+	at Main.main(Main.java:44)
+Exception: Недопустимый возраст
+CustomAgeException: Недопустимый возраст
+	at Main.main(Main.java:56)
